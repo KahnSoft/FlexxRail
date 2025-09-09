@@ -1,4 +1,4 @@
-# 🚂 FlexxRail – Game-Engine für industrielle Simulationen
+#  FlexxRail – Game-Engine für industrielle Simulationen
 
 **Version:** Early Preview 0.1  
 **Entwickler:** FlexxVision NGO  
@@ -6,7 +6,7 @@
 
 ---
 
-## 🧭 Projektübersicht
+##  Projektübersicht
 
 FlexxRail ist ein Demonstrator für unsere OpenGL-basierte Industrial Vision Engine.  
 Ziel: Die Leistungsfähigkeit unserer Bildverarbeitungssoftware in komplexen 3D-Szenarien sichtbar machen – mit dynamisch generiertem Terrain, Gleisstrecken, fahrenden Lokomotiven und Lua-Scripting.
@@ -15,14 +15,14 @@ Im Zentrum steht ein riesiges 3D-Terrain, das mittels Perlin-Noise generiert und
 
 ---
 
-## 🌍 Hauptfunktionen
+##  Hauptfunktionen
 
-- 🗺️ Perlin-Terrain mit JetColor-Höhendarstellung  
-- 🛤️ Spline-Line Editor für Gleisverläufe  
-- 🚆 Lokomotiv-Simulation mit Anhängern  
-- 🧮 Chunk-System & Frustum-Culling  
-- 🌳 Flora & Fauna via Geometrie-Shader *(in Entwicklung)*  
-- 🧵 Lua-Scripting mit Debugger & Haltepunkten  
+-  Perlin-Terrain mit JetColor-Höhendarstellung  
+-  Spline-Line Editor für Gleisverläufe  
+-  Lokomotiv-Simulation mit Anhängern  
+-  Chunk-System & Frustum-Culling  
+-  Flora & Fauna via Geometrie-Shader *(in Entwicklung)*  
+-  Lua-Scripting mit Debugger & Haltepunkten  
 
 ---
 
@@ -46,7 +46,7 @@ Im Zentrum steht ein riesiges 3D-Terrain, das mittels Perlin-Noise generiert und
 
 ---
 
-## 📁 Projektstruktur
+## Projektstruktur
 
 - `/Engine` – Rendering & Logik  
 - `/LuaScripts` – Beispielskripte & Admin-Funktionen  
@@ -58,13 +58,13 @@ Im Zentrum steht ein riesiges 3D-Terrain, das mittels Perlin-Noise generiert und
 
 ## 🖥️ Installation & Download
 
-👉 [FlexxRailSetup.msi herunterladen](https://www.flexxvision.de/flexxrail.html#download)  
+[FlexxRailSetup.msi herunterladen](https://www.flexxvision.de/flexxrail.html#download)  
 **System:** Windows 64 Bit  
 **Hinweis:** Als Administrator ausführen oder außerhalb von Systemverzeichnissen installieren, damit Einstellungen gespeichert werden können.
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 ![Splash Screen](https://www.flexxvision.de/media/images/splash-large.jpg)  
 *Startbildschirm mit Terrain-Visualisierung*
@@ -80,7 +80,7 @@ Im Zentrum steht ein riesiges 3D-Terrain, das mittels Perlin-Noise generiert und
 
 ---
 
-## 🤝 Mitmachen
+## Mitmachen
 
 Dieses Projekt ist Teil einer gemeinnützigen NGO.  
 Wir freuen uns über Feedback, Ideen und Mitentwickler – ob für Code, Design oder Dokumentation.
@@ -89,9 +89,10 @@ Wir freuen uns über Feedback, Ideen und Mitentwickler – ob für Code, Design 
 
 ## 🔗 Weitere Informationen
 
-👉 [Offizielle Projektseite mit Dokumentation & Details](https://www.flexxvision.de/flexxrail.html)  
-👉 [Kontaktformular für Rückfragen oder Kooperationen](https://www.flexxvision.de/kontakt.html)
+ [Offizielle Projektseite mit Dokumentation & Details](https://www.flexxvision.de/flexxrail.html)  
+ [Kontaktformular für Rückfragen oder Kooperationen](https://www.flexxvision.de/kontakt.html)
 
 ---
 
 © 2025 FlexxVision NGO – OpenGL Industrial Vision Engine
+
