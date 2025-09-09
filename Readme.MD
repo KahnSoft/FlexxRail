@@ -9,7 +9,7 @@
 ## 🧭 Projektübersicht
 
 FlexxRail ist ein Demonstrator für unsere OpenGL-basierte Industrial Vision Engine.  
-Ziel ist es, die Leistungsfähigkeit unserer Bildverarbeitungssoftware in komplexen 3D-Szenarien sichtbar zu machen – mit dynamisch generiertem Terrain, Gleisstrecken, fahrenden Lokomotiven und Lua-Scripting.
+Ziel: Die Leistungsfähigkeit unserer Bildverarbeitungssoftware in komplexen 3D-Szenarien sichtbar machen – mit dynamisch generiertem Terrain, Gleisstrecken, fahrenden Lokomotiven und Lua-Scripting.
 
 ---
 
