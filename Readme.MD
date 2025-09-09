@@ -9,7 +9,9 @@
 ## 🧭 Projektübersicht
 
 FlexxRail ist ein Demonstrator für unsere OpenGL-basierte Industrial Vision Engine.  
-Ziel: Die Leistungsfähigkeit unserer Bildverarbeitungssoftware in komplexen 3D-Szenarien sichtbar machen – mit dynamisch generiertem Terrain, Gleisstrecken, fahrenden Lokomotiven und Lua-Scripting.
+Ziel ist es, die Leistungsfähigkeit unserer Bildverarbeitungssoftware in komplexen 3D-Szenarien sichtbar zu machen – mit dynamisch generiertem Terrain, Gleisstrecken, fahrenden Lokomotiven und Lua-Scripting.
+
+Im Zentrum steht ein riesiges 3D-Terrain, das mittels Perlin-Noise generiert und über Shader und VBOs gerendert wird. Mit fünf Höhentexturen und Farbverläufen aus dem JetColor-Farbraum visualisieren wir die Topografie wie in einem Radarbild.
 
 ---
 
@@ -65,9 +67,24 @@ Ziel: Die Leistungsfähigkeit unserer Bildverarbeitungssoftware in komplexen 3D-
 
 ---
 
-## 🖥️ Installation
+## 🖥️ Installation & Download
 
-```bash
-Download: FlexxRailSetup.msi  
-System: Windows 64 Bit  
-Hinweis: Als Administrator ausführen oder außerhalb von Systemverzeichnissen installieren
+👉 [FlexxRailSetup.msi herunterladen](https://www.flexxvision.de/flexxrail.html#download)  
+**System:** Windows 64 Bit  
+**Hinweis:** Als Administrator ausführen oder außerhalb von Systemverzeichnissen installieren, damit Einstellungen gespeichert werden können.
+
+---
+
+## 📸 Screenshots
+
+*(Du kannst eigene Bilder ins Repository hochladen und hier verlinken – z. B. in einem `/images`-Ordner)*
+
+```markdown
+![FlexxRail Terrain](images/flexxrail_terrain.jpg)  
+*Dynamisch generiertes Perlin-Terrain mit JetColor-Höhendarstellung*
+
+![Spline Editor](images/flexxrail_spline_editor.jpg)  
+*Spline-Line Editor zur Gleisverlegung*
+
+![Lua Debugger](images/flexxrail_lua_debugger.jpg)  
+*Lua-Scripting mit Haltepunkten und Echtzeitsteuerung*
