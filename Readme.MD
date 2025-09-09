@@ -75,8 +75,9 @@ Im Zentrum steht ein riesiges 3D-Terrain, das mittels Perlin-Noise generiert und
 ![Theme flora fauna](https://www.flexxvision.de/media/images/theme2-large.jpg)  
 *Theme Flora Fauna*
 
-![Gleisverlegung](https://www.flexxvision.de/media/images/terraintrackedit-01-large.jpg)  
-*Spline-Line Editor zur Gleisverlegung*
+![TrackEdit](https://www.flexxvision.de/media/images/terraintrackedit-01-large.jpg)  
+*Spline Line Editor*
+
 
 ![Lua Debugger](https://www.flexxvision.de/media/images/terrainlua-large.jpg)  
 *Lua-Scripting mit Haltepunkten und Echtzeitsteuerung*
@@ -99,7 +100,8 @@ Wir freuen uns über Feedback, Ideen und Mitentwickler – ob für Code, Design 
 
 ---
 
-© 2025 FlexxVision NGO – OpenGL Industrial Vision Engine
+© 2025 FlexxVision – OpenGL Industrial Vision Engine
+
 
 
 
