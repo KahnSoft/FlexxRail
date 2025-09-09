@@ -9,9 +9,7 @@
 ## 🧭 Projektübersicht
 
 FlexxRail ist ein Demonstrator für unsere OpenGL-basierte Industrial Vision Engine.  
-Ziel ist es, die Leistungsfähigkeit unserer Bildverarbeitungssoftware in komplexen 3D-Szenarien sichtbar zu machen – mit dynamisch generiertem Terrain, Gleisstrecken, fahrenden Lokomotiven und Lua-Scripting.
-
-Im Zentrum steht ein riesiges 3D-Terrain, das mittels Perlin-Noise generiert und über Shader und VBOs gerendert wird. Mit fünf Höhentexturen und Farbverläufen aus dem JetColor-Farbraum visualisieren wir die Topografie wie in einem Radarbild.
+Ziel: Die Leistungsfähigkeit unserer Bildverarbeitungssoftware in komplexen 3D-Szenarien sichtbar machen – mit dynamisch generiertem Terrain, Gleisstrecken, fahrenden Lokomotiven und Lua-Scripting.
 
 ---
 
@@ -59,10 +57,10 @@ Im Zentrum steht ein riesiges 3D-Terrain, das mittels Perlin-Noise generiert und
 
 ## 📁 Projektstruktur
 
-- `/Engine` – Rendering & Logik
-- `/LuaScripts` – Beispielskripte & Admin-Funktionen
-- `/Assets` – Texturen, Meshes, Shader
-- `/Docs` – Dokumentation & Tastaturbelegung
+- `/Engine` – Rendering & Logik  
+- `/LuaScripts` – Beispielskripte & Admin-Funktionen  
+- `/Assets` – Texturen, Meshes, Shader  
+- `/Docs` – Dokumentation & Tastaturbelegung  
 - `/User` – User-Verwaltung (Admin0–Admin3)
 
 ---
@@ -77,14 +75,31 @@ Im Zentrum steht ein riesiges 3D-Terrain, das mittels Perlin-Noise generiert und
 
 ## 📸 Screenshots
 
-*(Du kannst eigene Bilder ins Repository hochladen und hier verlinken – z. B. in einem `/images`-Ordner)*
-
-```markdown
-![FlexxRail Terrain](images/flexxrail_terrain.jpg)  
+![FlexxRail Terrain](https://www.flexxvision.de/images/flexxrail_terrain.jpg)  
 *Dynamisch generiertes Perlin-Terrain mit JetColor-Höhendarstellung*
 
-![Spline Editor](images/flexxrail_spline_editor.jpg)  
+![Spline Editor](https://www.flexxvision.de/images/flexxrail_spline_editor.jpg)  
 *Spline-Line Editor zur Gleisverlegung*
 
-![Lua Debugger](images/flexxrail_lua_debugger.jpg)  
+![Lua Debugger](https://www.flexxvision.de/images/flexxrail_lua_debugger.jpg)  
 *Lua-Scripting mit Haltepunkten und Echtzeitsteuerung*
+
+*(Falls die Bilder nicht angezeigt werden, bitte sicherstellen, dass die URLs direkt auf `.jpg` oder `.png`-Dateien verweisen und öffentlich zugänglich sind.)*
+
+---
+
+## 🤝 Mitmachen
+
+Dieses Projekt ist Teil einer gemeinnützigen NGO.  
+Wir freuen uns über Feedback, Ideen und Mitentwickler – ob für Code, Design oder Dokumentation.
+
+---
+
+## 🔗 Weitere Informationen
+
+👉 [Offizielle Projektseite mit Dokumentation & Details](https://www.flexxvision.de/flexxrail.html)  
+👉 [Kontaktformular für Rückfragen oder Kooperationen](https://www.flexxvision.de/kontakt.html)
+
+---
+
+© 2025 FlexxVision NGO – OpenGL Industrial Vision Engine
