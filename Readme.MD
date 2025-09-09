@@ -11,27 +11,18 @@
 FlexxRail ist ein Demonstrator für unsere OpenGL-basierte Industrial Vision Engine.  
 Ziel: Die Leistungsfähigkeit unserer Bildverarbeitungssoftware in komplexen 3D-Szenarien sichtbar machen – mit dynamisch generiertem Terrain, Gleisstrecken, fahrenden Lokomotiven und Lua-Scripting.
 
+Im Zentrum steht ein riesiges 3D-Terrain, das mittels Perlin-Noise generiert und über Shader und VBOs gerendert wird. Mit fünf Höhentexturen und Farbverläufen aus dem JetColor-Farbraum visualisieren wir die Topografie wie in einem Radarbild.
+
 ---
 
 ## 🌍 Hauptfunktionen
 
-- 🗺️ **Perlin-Terrain mit JetColor-Höhendarstellung**  
-  Visualisierung über Shader & VBOs mit fünf Höhentexturen und Radar-Farbverläufen
-
-- 🛤️ **Spline-Line Editor für Gleisverläufe**  
-  Dynamische Gleisgenerierung mit 16-Punkte-Regelwerk und Echtzeit-Rendering
-
-- 🚆 **Lokomotiv-Simulation mit Anhängern**  
-  Grundlage für wirtschaftliche Szenarien (Kohle, Öl, Metall)
-
-- 🧮 **Chunk-System & Frustum-Culling**  
-  Optimiertes LOD-Management für hohe Frameraten (400–1000 FPS)
-
-- 🌳 **Flora & Fauna via Geometrie-Shader** *(in Entwicklung)*  
-  Terrain-basierte Umweltobjekte für visuelle Tiefe
-
-- 🧵 **Lua-Scripting mit Debugger & Haltepunkten**  
-  Echtzeit-Skripting zur Laufzeit mit Admin-Funktionen und Objektsteuerung
+- 🗺️ Perlin-Terrain mit JetColor-Höhendarstellung  
+- 🛤️ Spline-Line Editor für Gleisverläufe  
+- 🚆 Lokomotiv-Simulation mit Anhängern  
+- 🧮 Chunk-System & Frustum-Culling  
+- 🌳 Flora & Fauna via Geometrie-Shader *(in Entwicklung)*  
+- 🧵 Lua-Scripting mit Debugger & Haltepunkten  
 
 ---
 
@@ -75,16 +66,17 @@ Ziel: Die Leistungsfähigkeit unserer Bildverarbeitungssoftware in komplexen 3D-
 
 ## 📸 Screenshots
 
-![FlexxRail Terrain](https://www.flexxvision.de/images/flexxrail_terrain.jpg)  
-*Dynamisch generiertes Perlin-Terrain mit JetColor-Höhendarstellung*
+![Splash Screen](https://www.flexxvision.de/media/images/splash-large.jpg)  
+*Startbildschirm mit Terrain-Visualisierung*
 
-![Spline Editor](https://www.flexxvision.de/images/flexxrail_spline_editor.jpg)  
+![Gleisverlegung](https://www.flexxvision.de/media/images/flexxrail_tracks.jpg)  
 *Spline-Line Editor zur Gleisverlegung*
 
-![Lua Debugger](https://www.flexxvision.de/images/flexxrail_lua_debugger.jpg)  
+![Lua Debugger](https://www.flexxvision.de/media/images/flexxrail_lua_debugger.jpg)  
 *Lua-Scripting mit Haltepunkten und Echtzeitsteuerung*
 
-*(Falls die Bilder nicht angezeigt werden, bitte sicherstellen, dass die URLs direkt auf `.jpg` oder `.png`-Dateien verweisen und öffentlich zugänglich sind.)*
+![Lokomotive & Terrain](https://www.flexxvision.de/media/images/flexxrail_train.jpg)  
+*Lokomotiv-Simulation auf dynamischem Terrain*
 
 ---
 
