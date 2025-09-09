@@ -69,13 +69,19 @@ Im Zentrum steht ein riesiges 3D-Terrain, das mittels Perlin-Noise generiert und
 ![Splash Screen](https://www.flexxvision.de/media/images/splash-large.jpg)  
 *Startbildschirm mit Terrain-Visualisierung*
 
-![Gleisverlegung](https://www.flexxvision.de/media/images/flexxrail_tracks.jpg)  
+![Theme coal Ore](https://www.flexxvision.de/media/images/theme-large.jpg)  
+*Theme Coal Ore*
+
+![Theme flora fauna](https://www.flexxvision.de/media/images/theme2-large.jpg)  
+*Theme Flora Fauna*
+
+![Gleisverlegung](https://www.flexxvision.de/media/images/terraintrackedit-01-large.jpg)  
 *Spline-Line Editor zur Gleisverlegung*
 
-![Lua Debugger](https://www.flexxvision.de/media/images/flexxrail_lua_debugger.jpg)  
+![Lua Debugger](https://www.flexxvision.de/media/images/terrainlua-large.jpg)  
 *Lua-Scripting mit Haltepunkten und Echtzeitsteuerung*
 
-![Lokomotive & Terrain](https://www.flexxvision.de/media/images/flexxrail_train.jpg)  
+![Lokomotive & Terrain](https://www.flexxvision.de/media/images/lokfollow-large.jpg)  
 *Lokomotiv-Simulation auf dynamischem Terrain*
 
 ---
@@ -95,4 +101,5 @@ Wir freuen uns über Feedback, Ideen und Mitentwickler – ob für Code, Design 
 ---
 
 © 2025 FlexxVision NGO – OpenGL Industrial Vision Engine
+
 
