@@ -88,7 +88,6 @@ Im Zentrum steht ein riesiges 3D-Terrain, das mittels Perlin-Noise generiert und
 
 ## Mitmachen
 
-Dieses Projekt ist Teil einer gemeinnützigen NGO.  
 Wir freuen uns über Feedback, Ideen und Mitentwickler – ob für Code, Design oder Dokumentation.
 
 ---
@@ -101,5 +100,6 @@ Wir freuen uns über Feedback, Ideen und Mitentwickler – ob für Code, Design 
 ---
 
 © 2025 FlexxVision NGO – OpenGL Industrial Vision Engine
+
 
 
