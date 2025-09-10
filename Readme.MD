@@ -7,6 +7,9 @@ Visit the MainPage of FlexxRail (https://www.flexxvision.de/flexxrail.html)
 
 ---
 
+![Splash Screen](https://www.flexxvision.de/media/images/splash-large.jpg)  
+*Startup screen with terrain visualization*
+
 ## Project Overview
 
 FlexxRail is a demonstrator for our OpenGL-based Industrial Vision Engine.  
@@ -67,9 +70,6 @@ At the core is a vast 3D terrain generated via Perlin noise and rendered using s
 
 ## 📸 Screenshots
 
-![Splash Screen](https://www.flexxvision.de/media/images/splash-large.jpg)  
-*Startup screen with terrain visualization*
-
 ![Theme coal Ore](https://www.flexxvision.de/media/images/theme-large.jpg)  
 *Theme: Coal Ore*
 
@@ -101,6 +101,7 @@ We welcome feedback, ideas, and contributors – whether for code, design, or do
 ---
 
 © 2025 FlexxVision – OpenGL Industrial Vision Engine
+
 
 
 
