@@ -1,4 +1,4 @@
-# 🚆 FlexxRail – Game Engine for Industrial Simulations
+# FlexxRail – Game Engine for Industrial Simulations
 
 **Version:** Early Preview 0.1  
 **Developer:** FlexxVision NGO  
@@ -6,7 +6,7 @@
 
 ---
 
-## 🧭 Project Overview
+## Project Overview
 
 FlexxRail is a demonstrator for our OpenGL-based Industrial Vision Engine.  
 Goal: To showcase the capabilities of our image processing software in complex 3D scenarios – featuring dynamically generated terrain, railway tracks, moving locomotives, and Lua scripting.
@@ -46,7 +46,7 @@ At the core is a vast 3D terrain generated via Perlin noise and rendered using s
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 - `/Engine` – Rendering & logic  
 - `/LuaScripts` – Sample scripts & admin functions  
@@ -86,7 +86,7 @@ At the core is a vast 3D terrain generated via Perlin noise and rendered using s
 
 ---
 
-## 🤝 Get Involved
+## Get Involved
 
 We welcome feedback, ideas, and contributors – whether for code, design, or documentation.
 
@@ -100,3 +100,4 @@ We welcome feedback, ideas, and contributors – whether for code, design, or do
 ---
 
 © 2025 FlexxVision – OpenGL Industrial Vision Engine
+
