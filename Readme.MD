@@ -1,4 +1,4 @@
-# FlexxRail – Game Engine for Industrial Simulations
+# FlexxRail – Game Engine
 Visit the MainPage of FlexxRail (https://www.flexxvision.de/flexxrail.html)
 
 **Version:** Early Preview 0.1  
@@ -101,6 +101,7 @@ We welcome feedback, ideas, and contributors – whether for code, design, or do
 ---
 
 © 2025 FlexxVision – OpenGL Industrial Vision Engine
+
 
 
 
